@@ -6,8 +6,8 @@
 
 ## 🔗 Links
 
-- **Live Link:** _add your deployment URL here_
-- **GitHub Repository:** _add your repository URL here_
+- **Live Link:** https://fit-log-psi-tan.vercel.app/
+- **GitHub Repository:** https://github.com/Tahera-b14/FitLog
 
 ## 🛠️ Technologies Used
 
